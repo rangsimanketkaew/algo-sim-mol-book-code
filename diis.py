@@ -1,4 +1,10 @@
-#!/usr/bin/env python3
+"""
+Algorithms for Computer Simulation of Molecular Systems
+Copyright (c) 2023 Rangsiman Ketkaew
+
+License: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+https://creativecommons.org/licenses/by-nc-nd/4.0/
+"""
 
 import numpy as np
 
